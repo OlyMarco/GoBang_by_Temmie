@@ -11,8 +11,6 @@
 
 <br>
 
-![截图](./main.png)
-
 # 体验
 
 Windows平台可下载releases下的.exe文件，直接打开运行即可。
@@ -33,3 +31,4 @@ Windows平台可下载releases下的.exe文件，直接打开运行即可。
 # 演示视频
 
 - https://www.bilibili.com/video/BV1fs4y1r7XH/?vd_source=3a95dcc17122fb6cb92498ea6967feee
+- https://youtu.be/Ela0xCwen9Q
