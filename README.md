@@ -11,7 +11,7 @@
 
 <br>
 
-![截图](https://gitee.com/olymarco/gobang_by_temmie/blob/master/images/main.png)
+![截图](./main.png)
 
 # 体验
 
