@@ -1,5 +1,7 @@
 # Gobang_by_Temmie
 
+![截图](./images/main.png)
+
 
 <br>
 
@@ -11,7 +13,6 @@
 
 <br>
 
-![截图](./images/main.png)
 
 # 体验
 
