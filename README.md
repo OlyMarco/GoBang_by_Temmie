@@ -11,9 +11,11 @@
 
 <br>
 
+![截图](./images/main.png)
+
 # 体验
 
-Windows平台可下载releases下的.exe文件，直接打开运行即可。
+Windows平台可下载已发布的.exe文件，直接打开运行即可。
 
 通过Qt打开源程序（尚未开源）目录下的 GoBang_by_Temmie.pro 文件，直接编译运行即可。
 
